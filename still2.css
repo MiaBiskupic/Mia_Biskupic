@@ -1,0 +1,35 @@
+@charset "utf-8";
+/*CSS Document*/
+.rozapozadina{
+	background-color: pink;
+}
+body {
+  background-image: url("slike/pozadina.jpg")
+}
+
+h1, h2 {
+  color: cadetblue;
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+p {color: aqua;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 18px;
+line-height: 18px;
+width: 600px;
+background-color: #016F6A;
+padding: 20px;
+}
+a:link {
+	color: black;
+	background-color: lime;
+	padding: 5px;
+	line-height: 40px;
+	border:2px solid #FF0000;
+}
+a:hover{
+	background-color: aqua;
+}
+img {
+	height: 200px;
+	
+}
